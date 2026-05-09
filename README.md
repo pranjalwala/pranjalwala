@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pranjal Wala</h1>
+<h1 align="center">Pranjal Wala</h1>
 
 <p align="center">
 Mathematics Undergraduate • Machine Learning • Computer Vision • AI Research
@@ -8,75 +8,76 @@ Mathematics Undergraduate • Machine Learning • Computer Vision • AI Resear
 
 ## About Me
 
-I am a Mathematics undergraduate at Miranda House, University of Delhi, with interests in:
+I am a Mathematics undergraduate at Miranda House, University of Delhi, with academic and research interests in machine learning, computer vision, deep learning, and robust AI systems.
 
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Natural Language Processing
-- AI Research and Robustness
-- Mathematical foundations of AI systems
-
-Currently working on research-oriented ML workflows involving robustness, interpretability, and model evaluation.
+My current work focuses on building reproducible and research-oriented machine learning pipelines involving interpretability, robustness evaluation, and neural network optimization.
 
 ---
 
-## Current Focus
+## Research Interests
 
-- Residual CNN architectures
-- Explainable AI (Grad-CAM)
-- Prompt engineering and LLM behavior analysis
-- Robust color separation under process drift
-- Reproducible machine learning pipelines
+- Deep Learning
+- Computer Vision
+- Explainable AI (XAI)
+- Robust Machine Learning
+- Neural Network Optimization
+- Prompt Engineering and LLM Evaluation
+- Reproducible ML Systems
+
+---
+
+## Current Work
+
+- Residual CNN architectures for image understanding
+- Grad-CAM based interpretability analysis
+- Model robustness under process drift
+- RGB → CMYK color separation workflows
+- Evaluation pipelines for reliable ML systems
 
 ---
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Machine Learning & AI
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ## Featured Projects
 
 ### Intel Scene Classification
-Research-oriented deep learning pipeline using a custom ResNet-style CNN with Grad-CAM explainability.
+Research-oriented image classification pipeline using a custom ResNet-style CNN with Grad-CAM explainability and modular TensorFlow training workflows.
 
-🔗 Repository:
+Repository:  
 https://github.com/pranjalwala/intel-scene-classification
 
 ---
 
 ### Air Canvas Intent Aware
-Computer vision project enabling gesture-based digital drawing with intent recognition.
+Computer vision system enabling gesture-based drawing and interaction using real-time hand tracking and intent-aware processing.
 
 ---
 
 ### Yahoo Finance Prediction Model
-Machine learning pipeline for financial trend analysis and stock prediction.
+Machine learning workflow for financial trend analysis and predictive modeling using historical market data.
 
 ---
 
@@ -90,27 +91,32 @@ Working on:
 - process drift robustness
 - evaluation pipelines
 - reproducibility analysis
-- model stability under perturbations
+- stability analysis under perturbations
 
 ---
 
-## GitHub Stats
+## Academic Background
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalwala&show_icons=true&theme=tokyonight" />
-</p>
+**B.Sc. Mathematics (Honours)**  
+Miranda House, University of Delhi
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalwala&theme=tokyonight" />
-</p>
+Relevant coursework:
+- Linear Algebra
+- Calculus
+- Real Analysis
+- Probability and Statistics
+- Differential Equations
+- Discrete Mathematics
+- Data Analysis and Visualization
+- Database Management Systems
 
 ---
 
-## Connect With Me
+## Connect
 
-- LinkedIn
-- GitHub
-- Portfolio Website
+- GitHub: https://github.com/pranjalwala
+- LinkedIn: ADD_YOUR_LINKEDIN
+- Email: ADD_YOUR_EMAIL
 
 ---
 
