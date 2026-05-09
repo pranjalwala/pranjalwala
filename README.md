@@ -115,8 +115,8 @@ Relevant coursework:
 ## Connect
 
 - GitHub: https://github.com/pranjalwala
-- LinkedIn: ADD_YOUR_LINKEDIN
-- Email: ADD_YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/pranjal-wala-189470272/
+- Email: pranjalwala@gmail.com
 
 ---
 
