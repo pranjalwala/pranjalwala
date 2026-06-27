@@ -96,15 +96,7 @@ The Excelerate work involved systematic prompt perturbation — varying instruct
 
 ---
 
-## Stats
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=pranjalwala&show_icons=true&hide_border=true&count_private=true&theme=default&hide=contribs" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalwala&layout=compact&hide_border=true&theme=default" />
-
-</div>
 
 ---
 
